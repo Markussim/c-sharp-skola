@@ -1,0 +1,11 @@
+/home/markus/git/c-sharp-skola/obj/Debug/netcoreapp3.1/c-sharp-skola.csprojAssemblyReference.cache
+/home/markus/git/c-sharp-skola/obj/Debug/netcoreapp3.1/c-sharp-skola.AssemblyInfoInputs.cache
+/home/markus/git/c-sharp-skola/obj/Debug/netcoreapp3.1/c-sharp-skola.AssemblyInfo.cs
+/home/markus/git/c-sharp-skola/bin/Debug/netcoreapp3.1/c-sharp-skola
+/home/markus/git/c-sharp-skola/bin/Debug/netcoreapp3.1/c-sharp-skola.deps.json
+/home/markus/git/c-sharp-skola/bin/Debug/netcoreapp3.1/c-sharp-skola.runtimeconfig.json
+/home/markus/git/c-sharp-skola/bin/Debug/netcoreapp3.1/c-sharp-skola.runtimeconfig.dev.json
+/home/markus/git/c-sharp-skola/bin/Debug/netcoreapp3.1/c-sharp-skola.dll
+/home/markus/git/c-sharp-skola/bin/Debug/netcoreapp3.1/c-sharp-skola.pdb
+/home/markus/git/c-sharp-skola/obj/Debug/netcoreapp3.1/c-sharp-skola.dll
+/home/markus/git/c-sharp-skola/obj/Debug/netcoreapp3.1/c-sharp-skola.pdb
