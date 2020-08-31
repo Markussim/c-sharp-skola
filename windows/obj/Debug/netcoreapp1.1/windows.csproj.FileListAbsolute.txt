@@ -1,0 +1,8 @@
+C:\Users\markus.simonsen\git\c-sharp-skola\windows\bin\Debug\netcoreapp1.1\windows.deps.json
+C:\Users\markus.simonsen\git\c-sharp-skola\windows\bin\Debug\netcoreapp1.1\windows.runtimeconfig.json
+C:\Users\markus.simonsen\git\c-sharp-skola\windows\bin\Debug\netcoreapp1.1\windows.runtimeconfig.dev.json
+C:\Users\markus.simonsen\git\c-sharp-skola\windows\bin\Debug\netcoreapp1.1\windows.dll
+C:\Users\markus.simonsen\git\c-sharp-skola\windows\bin\Debug\netcoreapp1.1\windows.pdb
+C:\Users\markus.simonsen\git\c-sharp-skola\windows\obj\Debug\netcoreapp1.1\windows.AssemblyInfo.cs
+C:\Users\markus.simonsen\git\c-sharp-skola\windows\obj\Debug\netcoreapp1.1\windows.dll
+C:\Users\markus.simonsen\git\c-sharp-skola\windows\obj\Debug\netcoreapp1.1\windows.pdb

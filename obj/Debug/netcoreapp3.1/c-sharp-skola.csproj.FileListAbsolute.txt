@@ -9,3 +9,9 @@
 /home/markus/git/c-sharp-skola/bin/Debug/netcoreapp3.1/c-sharp-skola.pdb
 /home/markus/git/c-sharp-skola/obj/Debug/netcoreapp3.1/c-sharp-skola.dll
 /home/markus/git/c-sharp-skola/obj/Debug/netcoreapp3.1/c-sharp-skola.pdb
+C:\Users\markus.simonsen\git\c-sharp-skola\bin\Debug\netcoreapp3.1\c-sharp-skola.deps.json
+C:\Users\markus.simonsen\git\c-sharp-skola\bin\Debug\netcoreapp3.1\c-sharp-skola.runtimeconfig.json
+C:\Users\markus.simonsen\git\c-sharp-skola\bin\Debug\netcoreapp3.1\c-sharp-skola.runtimeconfig.dev.json
+C:\Users\markus.simonsen\git\c-sharp-skola\obj\Debug\netcoreapp3.1\c-sharp-skola.AssemblyInfo.cs
+C:\Users\markus.simonsen\git\c-sharp-skola\obj\Debug\netcoreapp3.1\c-sharp-skola.dll
+C:\Users\markus.simonsen\git\c-sharp-skola\obj\Debug\netcoreapp3.1\c-sharp-skola.pdb

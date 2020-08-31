@@ -3,11 +3,11 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("c-sharp-skola")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("windows")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Package Description")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("c-sharp-skola")]
-[assembly: System.Reflection.AssemblyTitleAttribute("c-sharp-skola")]
+[assembly: System.Reflection.AssemblyProductAttribute("windows")]
+[assembly: System.Reflection.AssemblyTitleAttribute("windows")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

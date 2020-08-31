@@ -1,21 +1,20 @@
 {
   "runtimeTarget": {
-    "name": ".NETCoreApp,Version=v3.1/",
+    "name": ".NETCoreApp,Version=v1.1",
     "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "compilationOptions": {},
   "targets": {
-    ".NETCoreApp,Version=v3.1": {},
-    ".NETCoreApp,Version=v3.1/": {
-      "c-sharp-skola/1.0.0": {
+    ".NETCoreApp,Version=v1.1": {
+      "windows/1.0.0": {
         "runtime": {
-          "c-sharp-skola.dll": {}
+          "windows.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "c-sharp-skola/1.0.0": {
+    "windows/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
