@@ -14,15 +14,36 @@ namespace windows
 
             string name = Console.ReadLine();
 
-            int age = 2020 - int.Parse(yearBorn);
+            int ageBefore = 2020 - int.Parse(yearBorn);
 
-            if(age > 0) {
-                Console.WriteLine("You are " + age + " years old");
+            int ageAfter = 0;
+
+            for(var i = 0; i < ageBefore; i++) { // Detta är mycket dålig kod
+                ageAfter++;
+            }
+
+            if(ageAfter > 0) {
+                Console.WriteLine("You are " + ageAfter + " years old");
             } else {
                 Console.WriteLine("You are dead");
             }
 
-            Console.WriteLine("Your name is " + name);
+            switch(name) {
+                case "Markus":
+                    Console.WriteLine("Your name is McFänFän");
+                    break;
+                case "Linus":
+                    Console.WriteLine("Your name is McAntAnt");
+                    break;
+                default:
+                    while(name.Length < 60) {
+                        name = name + name.Substring(name.Length - 1);
+                    }
+                    Console.WriteLine("Your name is " + name);
+                    break;
+            }
+
+            
             
         }
     }
