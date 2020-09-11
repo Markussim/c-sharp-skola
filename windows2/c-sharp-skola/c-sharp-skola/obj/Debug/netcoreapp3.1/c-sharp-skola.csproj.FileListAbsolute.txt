@@ -1,0 +1,13 @@
+C:\Users\markus.simonsen\git\c-sharp-skola\windows2\c-sharp-skola\c-sharp-skola\bin\Debug\netcoreapp3.1\c-sharp-skola.exe
+C:\Users\markus.simonsen\git\c-sharp-skola\windows2\c-sharp-skola\c-sharp-skola\bin\Debug\netcoreapp3.1\c-sharp-skola.deps.json
+C:\Users\markus.simonsen\git\c-sharp-skola\windows2\c-sharp-skola\c-sharp-skola\bin\Debug\netcoreapp3.1\c-sharp-skola.runtimeconfig.json
+C:\Users\markus.simonsen\git\c-sharp-skola\windows2\c-sharp-skola\c-sharp-skola\bin\Debug\netcoreapp3.1\c-sharp-skola.runtimeconfig.dev.json
+C:\Users\markus.simonsen\git\c-sharp-skola\windows2\c-sharp-skola\c-sharp-skola\bin\Debug\netcoreapp3.1\c-sharp-skola.dll
+C:\Users\markus.simonsen\git\c-sharp-skola\windows2\c-sharp-skola\c-sharp-skola\bin\Debug\netcoreapp3.1\c-sharp-skola.pdb
+C:\Users\markus.simonsen\git\c-sharp-skola\windows2\c-sharp-skola\c-sharp-skola\obj\Debug\netcoreapp3.1\c-sharp-skola.csprojAssemblyReference.cache
+C:\Users\markus.simonsen\git\c-sharp-skola\windows2\c-sharp-skola\c-sharp-skola\obj\Debug\netcoreapp3.1\c-sharp-skola.AssemblyInfoInputs.cache
+C:\Users\markus.simonsen\git\c-sharp-skola\windows2\c-sharp-skola\c-sharp-skola\obj\Debug\netcoreapp3.1\c-sharp-skola.AssemblyInfo.cs
+C:\Users\markus.simonsen\git\c-sharp-skola\windows2\c-sharp-skola\c-sharp-skola\obj\Debug\netcoreapp3.1\c-sharp-skola.csproj.CoreCompileInputs.cache
+C:\Users\markus.simonsen\git\c-sharp-skola\windows2\c-sharp-skola\c-sharp-skola\obj\Debug\netcoreapp3.1\c-sharp-skola.dll
+C:\Users\markus.simonsen\git\c-sharp-skola\windows2\c-sharp-skola\c-sharp-skola\obj\Debug\netcoreapp3.1\c-sharp-skola.pdb
+C:\Users\markus.simonsen\git\c-sharp-skola\windows2\c-sharp-skola\c-sharp-skola\obj\Debug\netcoreapp3.1\c-sharp-skola.genruntimeconfig.cache

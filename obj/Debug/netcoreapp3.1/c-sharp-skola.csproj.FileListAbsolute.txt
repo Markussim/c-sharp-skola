@@ -15,3 +15,6 @@ C:\Users\markus.simonsen\git\c-sharp-skola\bin\Debug\netcoreapp3.1\c-sharp-skola
 C:\Users\markus.simonsen\git\c-sharp-skola\obj\Debug\netcoreapp3.1\c-sharp-skola.AssemblyInfo.cs
 C:\Users\markus.simonsen\git\c-sharp-skola\obj\Debug\netcoreapp3.1\c-sharp-skola.dll
 C:\Users\markus.simonsen\git\c-sharp-skola\obj\Debug\netcoreapp3.1\c-sharp-skola.pdb
+C:\Users\markus.simonsen\git\c-sharp-skola\obj\Debug\netcoreapp3.1\c-sharp-skola.csprojAssemblyReference.cache
+C:\Users\markus.simonsen\git\c-sharp-skola\obj\Debug\netcoreapp3.1\c-sharp-skola.AssemblyInfoInputs.cache
+C:\Users\markus.simonsen\git\c-sharp-skola\obj\Debug\netcoreapp3.1\c-sharp-skola.csproj.CoreCompileInputs.cache
